@@ -1,0 +1,13 @@
+# Do not upload dataset files
+data/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
