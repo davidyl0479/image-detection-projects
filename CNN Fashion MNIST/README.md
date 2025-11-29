@@ -13,8 +13,11 @@ The aim is to compare how model depth and width affect performance while keeping
 ## Project Structure
 .
 ├── cnn_model.py # Baseline, Deeper, Wider CNN architectures
+
 ├── utils.py # Data loading, training loop, evaluation, plotting
+
 ├── notebook.ipynb # Full experiment: training, evaluation, plots
+
 └── README.md
 
 ## Models
