@@ -35,3 +35,10 @@ datasets/
 # Kaggle credentials
 kaggle.json
 .kaggle/
+
+# ML artifacts
+artifacts/
+face-mask-tl/artifacts/
+*.pth
+*.pt
+*.onnx
