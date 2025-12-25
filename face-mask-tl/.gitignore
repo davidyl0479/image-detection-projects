@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+*.code-workspace
+
+# Colab artifacts
+*.swp
+*.swo
+
+# Dataset files (keep repo clean)
+data/
+datasets/
+*.zip
+*.png
+*.jpg
+*.jpeg
+
+# Kaggle credentials
+kaggle.json
+.kaggle/
